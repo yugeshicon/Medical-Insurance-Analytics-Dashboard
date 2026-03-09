@@ -1,4 +1,6 @@
 # Medical-Insurance-Analytical-Dashboard
 
-![TextEditor Screenshots](screenshots/main.png)
-![TextEditor Screenshots](screenshots/main-2.png)
+![Dashboard Screenshots](Screenshots/main.png)
+
+
+![Dashboard Screenshots](Screenshots/main-2.png)
